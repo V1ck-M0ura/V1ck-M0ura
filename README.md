@@ -1,2 +1,9 @@
-<h1><font color="#b388ff">Olá, me chamo Victória Moura!</font></h1>
+ # Ola, me chamo Victória Moura 🖐!.
+
+ ### 🎓 Sobre mim.
+ Sou estudante do 2° Ano Ensino Médio    ||Técnico em Informática. 
+
+
+   
+
 
