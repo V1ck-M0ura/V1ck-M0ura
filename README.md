@@ -1,14 +1,3 @@
-
-<!-- Banner -->
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Banner V1ck Gamer">
-</p>
-
-<!-- Avatar -->
-<p align="center">
-  <img src="./avatar.png" width="180" alt="Avatar Minecraft">
-</p>
-
 <h1 align="center">⛏️ Bem-vindo ao Mundo de V1ck-M0ura 🌿</h1>
 
 <p align="center">
@@ -34,9 +23,7 @@
 # 🎒 Inventário
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode"/>
-
 </p>
 
 ---
@@ -113,14 +100,9 @@
 ---
 
 <h3 align="center">
-
 ⭐⭐⭐⭐⭐ Obrigado por visitar meu mundo! ⭐⭐⭐⭐⭐
-
 </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=V1ck-M0ura&color=blueviolet&style=for-the-badge"/>
 </p>
-
-
-
