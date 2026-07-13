@@ -1,18 +1,18 @@
 <h1 align="center">⛏️ Bem-vindo ao Mundo de V1ck-M0ura 🌿</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=C65BFF&center=true&vCenter=true&width=700&lines=Criando+Códigos...;Construindo+Projetos...;Apaixonado+por+Minecraft...;Bem-vindo+ao+meu+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=C65BFF&center=true&vCenter=true&width=700&lines=Criando+Códigos...;Construindo+Projetos...;Apaixonada+por+Minecraft...;Bem-vindo+ao+meu+GitHub!" />
 </p>
 
 ---
 
 # 🌍 Sobre Mim
 
-🟪 **Nome:** Vick
+🟪 **Nome:** Victória Moura 
 
 💻 Estudante de Tecnologia da Informação (TI)
 
-🎮 Apaixonado por Minecraft
+🎮 Apaixonada por Minecraft
 
 🚀 Aprendendo programação um bloco de cada vez.
 
@@ -100,7 +100,7 @@
 ---
 
 <h3 align="center">
-⭐⭐⭐⭐⭐ Obrigado por visitar meu mundo! ⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐ Obrigada por visitar meu mundo! ⭐⭐⭐⭐⭐
 </h3>
 
 <p align="center">
