@@ -1,4 +1,4 @@
-<h1 align="center">⛏️ Bem-vindo ao Mundo de V1ck-M0ura 🌿</h1>
+8<h1 align="center">⛏️ Bem-vindo ao Mundo de V1ck-M0ura 🌿</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=55FF55&center=true&vCenter=true&width=700&lines=Criando+Códigos...;Construindo+Projetos...;Apaixonado+por+Minecraft...;Bem-vindo+ao+meu+GitHub!" />
@@ -60,10 +60,6 @@
 ⭐⭐⭐⭐⭐ Obrigado por visitar o meu mundo! ⭐⭐⭐⭐⭐
 </h3>
 
-
-<p align="center">
-<img src="https://github.com/V1ck-M0ura/V1ck-M0ura/blob/output/github-contribution-grid-snake.svg">
-</p>
 
    
 
